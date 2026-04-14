@@ -1,0 +1,36 @@
+# Datasets gerados (publicados via GitHub Releases, não commitados)
+datasets/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Ambiente virtual
+venv/
+.venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Credenciais (nunca commitar!)
+.aws/
+*.pem
+*.key
