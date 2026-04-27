@@ -358,5 +358,29 @@
     "file": "customer_service_2026-04-26.jsonl",
     "sha256": "4f77f9eff33a2c0a189c17757e8d6e74c117818c9a8f80a6694ce983dec6a769",
     "size_kb": 4245
+  },
+  {
+    "date": "2026-04-27",
+    "type": "financial_sentiment",
+    "count": 10494,
+    "file": "financial_sentiment_2026-04-27.jsonl",
+    "sha256": "426d649a457a2507a8127d1336f3258e2025ff1a37ec7449b1f4e92451b99642",
+    "size_kb": 2461
+  },
+  {
+    "date": "2026-04-27",
+    "type": "legal_ner",
+    "count": 7971,
+    "file": "legal_ner_2026-04-27.jsonl",
+    "sha256": "61e4eef766e55d2577b9cd97cc8b9e61351616cf7d611437b05685c85c3bb19e",
+    "size_kb": 9838
+  },
+  {
+    "date": "2026-04-27",
+    "type": "customer_service",
+    "count": 8000,
+    "file": "customer_service_2026-04-27.jsonl",
+    "sha256": "35216f4103654dfb6d3159d39b9f1b8861575fc542325ef2c9c2f3a4846ac5c6",
+    "size_kb": 4239
   }
 ]
