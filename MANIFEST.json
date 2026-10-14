@@ -1,29 +1,5 @@
 [
   {
-    "date": "2026-09-14",
-    "type": "financial_sentiment",
-    "count": 10537,
-    "file": "financial_sentiment_2026-09-14.jsonl",
-    "sha256": "bb4016c4b33dd10908c57a1d6244bd972a8d60825543335c57e5145d0525ba04",
-    "size_kb": 2473
-  },
-  {
-    "date": "2026-09-14",
-    "type": "legal_ner",
-    "count": 7976,
-    "file": "legal_ner_2026-09-14.jsonl",
-    "sha256": "88b19153fd3696ddfd349e4542942698ca5b4e29cf9c8ab94ba2e7957d70ff45",
-    "size_kb": 9847
-  },
-  {
-    "date": "2026-09-14",
-    "type": "customer_service",
-    "count": 8000,
-    "file": "customer_service_2026-09-14.jsonl",
-    "sha256": "f9a5ff07f0db0466f1b6516494a7a30e5ecd795bdf119cb6a9a7868008b02d57",
-    "size_kb": 4235
-  },
-  {
     "date": "2026-09-15",
     "type": "financial_sentiment",
     "count": 10498,
@@ -718,5 +694,29 @@
     "file": "customer_service_2026-10-13.jsonl",
     "sha256": "093686d07214e73e2d56fbd32178bf3da4e62713ceee6925f22f2b6ce55fc681",
     "size_kb": 4244
+  },
+  {
+    "date": "2026-10-14",
+    "type": "financial_sentiment",
+    "count": 10581,
+    "file": "financial_sentiment_2026-10-14.jsonl",
+    "sha256": "b3b068acd79e65b593b07a6dd93e883c9cca8ced20c8c3cd58a4d191c7fcf974",
+    "size_kb": 2478
+  },
+  {
+    "date": "2026-10-14",
+    "type": "legal_ner",
+    "count": 7970,
+    "file": "legal_ner_2026-10-14.jsonl",
+    "sha256": "bc934dd958393e044c9d167b71aaef61c1532c5e69a66038c7b5f081d7c94da0",
+    "size_kb": 9834
+  },
+  {
+    "date": "2026-10-14",
+    "type": "customer_service",
+    "count": 8000,
+    "file": "customer_service_2026-10-14.jsonl",
+    "sha256": "44a53a9f09ee6952676ae9bed23c08fdaafe089f3d2a7e81de9f5b9865ddb35f",
+    "size_kb": 4240
   }
 ]
